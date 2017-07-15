@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LP_RC_UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Relay1_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay2_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay3_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay4_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay5_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay6_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay7_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay8_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Relay1_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="Relay2_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Relay3_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="Relay4_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Relay5_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="Relay6_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="Relay7_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="Relay8_Pin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Relay1_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 1</Value>
+    </Setting>
+    <Setting Name="Relay2_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 2</Value>
+    </Setting>
+    <Setting Name="Relay3_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 3</Value>
+    </Setting>
+    <Setting Name="Relay4_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 4</Value>
+    </Setting>
+    <Setting Name="Relay5_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 5</Value>
+    </Setting>
+    <Setting Name="Relay6_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 6</Value>
+    </Setting>
+    <Setting Name="Relay7_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 7</Value>
+    </Setting>
+    <Setting Name="Relay8_Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Relay 8</Value>
+    </Setting>
+    <Setting Name="speechRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="speechVolume" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="SelectedVoice" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TTS_IsOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TTS_Setup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SelectedForm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Form1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
