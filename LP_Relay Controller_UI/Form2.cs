@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 using System.Windows.Forms;
-using LattePanda.Firmata;
+using LattePanda.CustomFirmata;
 using LP_RC_UI.Properties;
 using System.Speech.Synthesis;
 using System.Diagnostics;
@@ -183,8 +177,8 @@ namespace LP_RC_UI
 
                 if (Settings.Default.TTS_IsOn == true & Settings.Default.TTS_Setup == true)
                 {
-                    System.Threading.Thread TTS;
-                    TTS = new System.Threading.Thread(PlayTTS);
+                    Thread TTS;
+                    TTS = new Thread(PlayTTS);
                     TTS.Start();
                 }
             }
@@ -200,8 +194,8 @@ namespace LP_RC_UI
 
                 if (Settings.Default.TTS_IsOn == true & Settings.Default.TTS_Setup == true)
                 {
-                    System.Threading.Thread TTS;
-                    TTS = new System.Threading.Thread(PlayTTS);
+                    Thread TTS;
+                    TTS = new Thread(PlayTTS);
                     TTS.Start();
                 }
             }

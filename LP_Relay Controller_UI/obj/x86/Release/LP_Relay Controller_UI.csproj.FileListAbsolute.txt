@@ -10,3 +10,16 @@ C:\Users\Luis Navarro\Documents\Visual Studio 2017\Projects\LP_Relay Controller_
 C:\Users\Luis Navarro\Documents\Visual Studio 2017\Projects\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form6.resources
 C:\Users\Luis Navarro\Documents\Visual Studio 2017\Projects\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form2.resources
 C:\Users\Luis Navarro\Documents\Visual Studio 2017\Projects\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form5.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\bin\x86\Release\LP_Relay Controller_UI.exe.config
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\bin\x86\Release\LP_Relay Controller_UI.exe
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_Relay Controller_UI.csprojResolveAssemblyReference.cache
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form1.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form2.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form3.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form4.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form5.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Form6.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_RC_UI.Properties.Resources.resources
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_Relay Controller_UI.csproj.GenerateResource.Cache
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_Relay Controller_UI.csproj.CoreCompileInputs.cache
+C:\Users\Luis Navarro\Documents\LP_Relay Controller_UI\LP_Relay Controller_UI\obj\x86\Release\LP_Relay Controller_UI.exe
